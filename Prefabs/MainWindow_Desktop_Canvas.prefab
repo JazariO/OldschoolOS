@@ -1402,7 +1402,7 @@ MonoBehaviour:
   playerSaveDataSO: {fileID: 11400000, guid: f967741143478d14087b59d6df421be4, type: 2}
   media_explorer_prefab_file_image: {fileID: 3987607613826970888, guid: 372900c17dca36244b9befc86d3bb224, type: 3}
   media_explorer_panel_content_transform: {fileID: 4494528032752688739}
-  desktop_cursor_transform: {fileID: 0}
+  desktop_cursor_transform: {fileID: 1226481195567563242}
   audioFileImage: {fileID: 0}
   OnPhotoTaken: {fileID: 0}
   OnInspectDisengageBegin: {fileID: 0}
@@ -1479,7 +1479,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_Actions: {fileID: -944628639613478452, guid: 706f50f5248ec02499b2b85442780f21, type: 3}
   m_NotificationBehavior: 0
   m_UIInputModule: {fileID: 0}
   m_DeviceLostEvent:
@@ -1494,7 +1494,7 @@ MonoBehaviour:
   m_ActionEvents: []
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
-  m_DefaultActionMap: 
+  m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
 --- !u!1 &3352000399901200825
@@ -2268,7 +2268,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 8120644695301505797}
   m_Direction: 2
   m_Value: 0
-  m_Size: 0.87581295
+  m_Size: 0.0000000902353
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -2464,7 +2464,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -7.9996033, y: -42.000076}
+  m_AnchoredPosition: {x: -7.9996033, y: -42.00009}
   m_SizeDelta: {x: 15.999542, y: 0}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!222 &8454468833373072918
