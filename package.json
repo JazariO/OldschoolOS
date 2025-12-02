@@ -1,0 +1,12 @@
+{
+  "name": "com.proselyte.oldschool-os",
+  "version": "0.1.0-alpha",
+  "displayName": "Proselyte OldschoolOS",
+  "description": "An oldschool operating system UI built for the Unity Engine.",
+  "unity": "6000.0",
+  "license": "MIT",
+  "author": {
+    "name": "Jazari",
+    "url": "https://github.com/JazariO"
+  }
+}
