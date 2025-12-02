@@ -12,7 +12,6 @@
   "dependencies": {
     "com.unity.inputsystem": "1.4.4",
     "com.unity.textmeshpro": "3.0.6",
-    "com.fmod.unity": "2.03.10",
     "com.proselyte.sigils": "https://github.com/JazariO/Sigils.git"
   }
 }
