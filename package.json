@@ -10,8 +10,6 @@
     "url": "https://github.com/JazariO"
   },
   "dependencies": {
-    "com.unity.inputsystem": "1.4.4",
-    "com.unity.textmeshpro": "3.0.6",
-    "com.proselyte.sigils": "https://github.com/JazariO/Sigils.git"
+    "com.unity.inputsystem": "1.4.4"
   }
 }
